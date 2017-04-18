@@ -5,4 +5,5 @@ function func(){
 	}
 }
 var a = func()();
-console.log(a);
+console.log(a + " " + a);
+console.log(345);
